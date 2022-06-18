@@ -2,7 +2,7 @@
 
 Dungeon of Doom is an adventure game playable in the console. The objective of the game is to get out of the dungeon alive. In order to accomplish the player has to eliminate all enemies in the dungeon and after that find the exit.
 
-At the start of the game, 3 weapons, 4 heal items and 3 enemies are scattered randomly across the map. The player doesn't necessarily have to find all heal items and weapons but they can help beat the game.
+At the start of the game, 3 weapons, 4 heal items and 3 enemies are scattered randomly across the map. The player doesn't necessarily have to find all heal items and weapons, but they can help beat the game.
 
 At the start of the game the player has 100 HP which is also the maximum. If the player takes too much damage and the HP goes to 0, the player dies and loses the game. The player can use the heal items using the "use" command. Current health can be checked at any time outside of combat using the "health" command.
 
