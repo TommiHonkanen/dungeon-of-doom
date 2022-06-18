@@ -1,0 +1,39 @@
+Welcome to Dungeon Of Doom!
+
+The objective of the game is to get out of the dungeon alive. In order to accomplish that you have to kill all enemies in the dungeon and after that find the exit. (The exit will only appear once all enemies have been defeated).
+At the start of the game, 3 weapons, 4 heal items and 3 enemies are scattered randomly across the map. You don't necessarily have to find all heal items and weapons but they can help beat the game.
+
+At the start of the game you have 100 HP which is also the maximum. If you take too much damage and your health goes to 0, then you die and lose the game. You can use the heal items you find using the "use" command to heal youreslf.
+You can check your health at any time outside of combat using the "health" command.
+
+There can never be more than 1 enemy in a single area. In order to attack the enemy in your current location you need to use a weapon in your inventory using the "use" command e.g. "use hammer".
+That will provoke the enemy and initiate the combat mechanism.
+
+The combat is turn-based meaning that you and the enemy get to act alternately. During your turns you can choose to use a weapon in your inventory to attack or heal yourself using a heal item.
+During combat you don't have to type "use" before the name of the item. You can also choose to skip your turn by typing "skip".
+During the enemy's turn it always attacks you and deals a constant amount of damage stated at the beginning of the combat sequence.
+
+Each weapon deals a unique amount of damage and has a unique critical hit chance. These stats can be checked using the "info" command. Critical hits deal 50% more damage.
+
+Each heal item also heals a unique amount of health. This can be checked using the "info" command. Each heal item can only be used once.
+
+Commands:
+    "go": Use this to navigate the dungeon e.g. "go south".
+    "quit": Ends the game (can't be used during combat).
+    "get": Use this to pick up an item in your current location e.g. "get hammer".
+    "info": Use this to check the stats of an item you're carrying e.g. "info hammer".
+    "inventory": Use this to check what items you're carrying.
+    "drop": Use this to drop an item you're carrying into your current location e.g. "drop hammer".
+    "use": - Use this to initiate combat with the enemy in your current location e.g. "use hammer".
+           - Use this to use a heal item outside of combat e.g. "use apple".
+    "health": Use this to check your current health outside of combat.
+    "help": Some basic info about the game (but you shouldn't need it if you've read this file).
+
+
+HOW TO BEAT THE GAME: 1. Find at least one weapon and a couple of heal items (the amount of heal items you need depends on how difficult the enemies are, how powerful your weapons are and how much your heal items heal, so it might be different every game).
+                      2. Find and kill all enemies. (You will get a message once you have defeated all enemies).
+                      3. Go to the exit (check map.png).
+                      4. Make sure at all times your health stays above 0. (use heal items during and outside of combat if your health gets dangerously low).
+
+
+
