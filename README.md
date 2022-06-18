@@ -8,14 +8,14 @@ At the start of the game the player has 100 HP which is also the maximum. If the
 
 There can never be more than 1 enemy in a single area. In order to attack the enemy in the player's current location, one has to use a weapon currently in their inventory using the "use" command e.g. "use hammer". That will provoke the enemy and initiate the combat mechanism.
 
-Commands:
-    "go": Use this to navigate the dungeon e.g. "go south".
-    "quit": Ends the game (can't be used during combat).
-    "get": Use this to pick up an item in your current location e.g. "get hammer".
-    "info": Use this to check the stats of an item you're carrying e.g. "info hammer".
-    "inventory": Use this to check what items you're carrying.
-    "drop": Use this to drop an item you're carrying into your current location e.g. "drop hammer".
-    "use": - Use this to initiate combat with the enemy in your current location e.g. "use hammer".
-           - Use this to use a heal item outside of combat e.g. "use apple".
-    "health": Use this to check your current health outside of combat.
-    "help": Some basic info about the game.
+Commands:  <br>
+    "go": Use this to navigate the dungeon e.g. "go south".  <br>
+    "quit": Ends the game (can't be used during combat).  <br>
+    "get": Use this to pick up an item in your current location e.g. "get hammer".  <br>
+    "info": Use this to check the stats of an item you're carrying e.g. "info hammer".  <br>
+    "inventory": Use this to check what items you're carrying.  <br>
+    "drop": Use this to drop an item you're carrying into your current location e.g. "drop hammer".  <br>
+    "use": - Use this to initiate combat with the enemy in your current location e.g. "use hammer".  <br>
+           - Use this to use a heal item outside of combat e.g. "use apple".  <br>
+    "health": Use this to check your current health outside of combat.  <br>
+    "help": Some basic info about the game.  <br>
